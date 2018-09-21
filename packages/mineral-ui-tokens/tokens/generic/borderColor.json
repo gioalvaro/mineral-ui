@@ -9,7 +9,7 @@
   "props": [
     { "name": "borderColor",                "value": "{!gray_40}" },
     { "name": "borderColor_brand",          "value": "{!brand_60}" },
-    { "name": "borderColor_brand_active",   "value": "{!brand_50}" },
+    { "name": "borderColor_brand_active",   "value": "{!brand_70}" },
     { "name": "borderColor_brand_focus",    "value": "{!brand_70}" },
     { "name": "borderColor_brand_hover",    "value": "{!brand_50}" },
     { "name": "borderColor_danger",         "value": "{!red_60}" },
